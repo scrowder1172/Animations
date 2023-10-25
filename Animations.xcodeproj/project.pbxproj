@@ -12,6 +12,7 @@
 		526F06CD2AE9599600335907 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 526F06CC2AE9599600335907 /* Assets.xcassets */; };
 		526F06D02AE9599600335907 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 526F06CF2AE9599600335907 /* Preview Assets.xcassets */; };
 		526F06D72AE95CAF00335907 /* ImplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06D62AE95CAF00335907 /* ImplicitAnimations.swift */; };
+		526F06D92AE969B000335907 /* CustomizingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06D82AE969B000335907 /* CustomizingAnimations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		526F06CC2AE9599600335907 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		526F06CF2AE9599600335907 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		526F06D62AE95CAF00335907 /* ImplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimations.swift; sourceTree = "<group>"; };
+		526F06D82AE969B000335907 /* CustomizingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizingAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				526F06CC2AE9599600335907 /* Assets.xcassets */,
 				526F06CE2AE9599600335907 /* Preview Content */,
 				526F06D62AE95CAF00335907 /* ImplicitAnimations.swift */,
+				526F06D82AE969B000335907 /* CustomizingAnimations.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				526F06D72AE95CAF00335907 /* ImplicitAnimations.swift in Sources */,
+				526F06D92AE969B000335907 /* CustomizingAnimations.swift in Sources */,
 				526F06CB2AE9599500335907 /* ContentView.swift in Sources */,
 				526F06C92AE9599500335907 /* AnimationsApp.swift in Sources */,
 			);
