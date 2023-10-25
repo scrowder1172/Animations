@@ -17,6 +17,7 @@
 		526F06DD2AE9983B00335907 /* ExplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06DC2AE9983B00335907 /* ExplicitAnimations.swift */; };
 		526F06DF2AE9A4B800335907 /* AnimationStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */; };
 		526F06E12AE9AAEC00335907 /* AnimationGesturesExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06E02AE9AAEC00335907 /* AnimationGesturesExamples.swift */; };
+		526F06E32AE9B83A00335907 /* ShowHideViewExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06E22AE9B83A00335907 /* ShowHideViewExamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		526F06DC2AE9983B00335907 /* ExplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplicitAnimations.swift; sourceTree = "<group>"; };
 		526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationStackExample.swift; sourceTree = "<group>"; };
 		526F06E02AE9AAEC00335907 /* AnimationGesturesExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationGesturesExamples.swift; sourceTree = "<group>"; };
+		526F06E22AE9B83A00335907 /* ShowHideViewExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowHideViewExamples.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				526F06DC2AE9983B00335907 /* ExplicitAnimations.swift */,
 				526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */,
 				526F06E02AE9AAEC00335907 /* AnimationGesturesExamples.swift */,
+				526F06E22AE9B83A00335907 /* ShowHideViewExamples.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				526F06CB2AE9599500335907 /* ContentView.swift in Sources */,
 				526F06DD2AE9983B00335907 /* ExplicitAnimations.swift in Sources */,
 				526F06C92AE9599500335907 /* AnimationsApp.swift in Sources */,
+				526F06E32AE9B83A00335907 /* ShowHideViewExamples.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
