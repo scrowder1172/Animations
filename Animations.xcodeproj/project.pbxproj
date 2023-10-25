@@ -18,6 +18,7 @@
 		526F06DF2AE9A4B800335907 /* AnimationStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */; };
 		526F06E12AE9AAEC00335907 /* AnimationGesturesExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06E02AE9AAEC00335907 /* AnimationGesturesExamples.swift */; };
 		526F06E32AE9B83A00335907 /* ShowHideViewExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06E22AE9B83A00335907 /* ShowHideViewExamples.swift */; };
+		526F06E52AE9BAA500335907 /* CustomTransitionExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06E42AE9BAA500335907 /* CustomTransitionExamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationStackExample.swift; sourceTree = "<group>"; };
 		526F06E02AE9AAEC00335907 /* AnimationGesturesExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationGesturesExamples.swift; sourceTree = "<group>"; };
 		526F06E22AE9B83A00335907 /* ShowHideViewExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowHideViewExamples.swift; sourceTree = "<group>"; };
+		526F06E42AE9BAA500335907 /* CustomTransitionExamples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTransitionExamples.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */,
 				526F06E02AE9AAEC00335907 /* AnimationGesturesExamples.swift */,
 				526F06E22AE9B83A00335907 /* ShowHideViewExamples.swift */,
+				526F06E42AE9BAA500335907 /* CustomTransitionExamples.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 			files = (
 				526F06DF2AE9A4B800335907 /* AnimationStackExample.swift in Sources */,
 				526F06D72AE95CAF00335907 /* ImplicitAnimations.swift in Sources */,
+				526F06E52AE9BAA500335907 /* CustomTransitionExamples.swift in Sources */,
 				526F06DB2AE9863500335907 /* AnimateBindings.swift in Sources */,
 				526F06E12AE9AAEC00335907 /* AnimationGesturesExamples.swift in Sources */,
 				526F06D92AE969B000335907 /* CustomizingAnimations.swift in Sources */,
