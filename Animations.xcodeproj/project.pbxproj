@@ -15,6 +15,7 @@
 		526F06D92AE969B000335907 /* CustomizingAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06D82AE969B000335907 /* CustomizingAnimations.swift */; };
 		526F06DB2AE9863500335907 /* AnimateBindings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06DA2AE9863500335907 /* AnimateBindings.swift */; };
 		526F06DD2AE9983B00335907 /* ExplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06DC2AE9983B00335907 /* ExplicitAnimations.swift */; };
+		526F06DF2AE9A4B800335907 /* AnimationStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		526F06D82AE969B000335907 /* CustomizingAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizingAnimations.swift; sourceTree = "<group>"; };
 		526F06DA2AE9863500335907 /* AnimateBindings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimateBindings.swift; sourceTree = "<group>"; };
 		526F06DC2AE9983B00335907 /* ExplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplicitAnimations.swift; sourceTree = "<group>"; };
+		526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationStackExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				526F06D82AE969B000335907 /* CustomizingAnimations.swift */,
 				526F06DA2AE9863500335907 /* AnimateBindings.swift */,
 				526F06DC2AE9983B00335907 /* ExplicitAnimations.swift */,
+				526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				526F06DF2AE9A4B800335907 /* AnimationStackExample.swift in Sources */,
 				526F06D72AE95CAF00335907 /* ImplicitAnimations.swift in Sources */,
 				526F06DB2AE9863500335907 /* AnimateBindings.swift in Sources */,
 				526F06D92AE969B000335907 /* CustomizingAnimations.swift in Sources */,
