@@ -48,6 +48,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		52537A752AF142CC0093D751 /* TutorialFiles */ = {
+			isa = PBXGroup;
+			children = (
+				526F06D62AE95CAF00335907 /* ImplicitAnimations.swift */,
+				526F06D82AE969B000335907 /* CustomizingAnimations.swift */,
+				526F06DA2AE9863500335907 /* AnimateBindings.swift */,
+				526F06DC2AE9983B00335907 /* ExplicitAnimations.swift */,
+				526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */,
+				526F06E02AE9AAEC00335907 /* AnimationGesturesExamples.swift */,
+				526F06E22AE9B83A00335907 /* ShowHideViewExamples.swift */,
+				526F06E42AE9BAA500335907 /* CustomTransitionExamples.swift */,
+			);
+			path = TutorialFiles;
+			sourceTree = "<group>";
+		};
 		526F06BC2AE9599500335907 = {
 			isa = PBXGroup;
 			children = (
@@ -70,15 +85,8 @@
 				526F06C82AE9599500335907 /* AnimationsApp.swift */,
 				526F06CA2AE9599500335907 /* ContentView.swift */,
 				526F06CC2AE9599600335907 /* Assets.xcassets */,
+				52537A752AF142CC0093D751 /* TutorialFiles */,
 				526F06CE2AE9599600335907 /* Preview Content */,
-				526F06D62AE95CAF00335907 /* ImplicitAnimations.swift */,
-				526F06D82AE969B000335907 /* CustomizingAnimations.swift */,
-				526F06DA2AE9863500335907 /* AnimateBindings.swift */,
-				526F06DC2AE9983B00335907 /* ExplicitAnimations.swift */,
-				526F06DE2AE9A4B800335907 /* AnimationStackExample.swift */,
-				526F06E02AE9AAEC00335907 /* AnimationGesturesExamples.swift */,
-				526F06E22AE9B83A00335907 /* ShowHideViewExamples.swift */,
-				526F06E42AE9BAA500335907 /* CustomTransitionExamples.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
